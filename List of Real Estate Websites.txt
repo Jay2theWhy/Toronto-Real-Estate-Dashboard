@@ -1,5 +1,5 @@
-1.
-2.
+1. realtor.ca (users InCapsula for bot detection)
+2. zolo.ca (no bot detection)
 3.
 4.
 5.
